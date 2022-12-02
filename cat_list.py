@@ -20,7 +20,7 @@ cats = [
         "name": "Лапа",
         "gender": "девочка",
         "age": 0,
-    },
+    }
 ]
 
 for cat in cats:
